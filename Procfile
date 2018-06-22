@@ -1,1 +1,1 @@
-worker: python trapzr6.py
+worker: python trapzBOT.py
